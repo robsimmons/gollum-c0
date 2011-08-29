@@ -1,6 +1,6 @@
 /* Pygments syntax highlighting for C0, Emacs-style */
 
-.highlight      { color: #000; background: #fff }
+.highlight      { color: #070; background: #fff }
 .highlight .err { color: #a61717; background-color: #e3d2d2 }
 
 .highlight .cm  { color: #998; font-style: italic } /* Comment.Multiline */
