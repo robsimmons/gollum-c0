@@ -1,0 +1,23 @@
+/* Pygments syntax highlighting for C0, Emacs-style */
+
+.highlight      { color: #000; background: #fff }
+.highlight .err { color: #a61717; background-color: #e3d2d2 }
+
+.highlight .cm  { color: #998; font-style: italic } /* Comment.Multiline */
+.highlight .c1  { color: #998; font-style: italic } /* Comment.Line */
+.highlight .cp  { color: #999; font-weight: bold }  /* Comment.Preproc */
+.highlight .cs  { color: #999; }                    /* Comment.Special */
+.highlight .k   { color: #000; font-weight: bold }  /* Keyword */
+.highlight .kr  { color: #909; }                    /* Keyword.Reserved */
+.highlight .kt  { color: #090; }                    /* Keyword.Type */
+.highlight .mh  { color: #099; }                    /* Number.Hex */
+.highlight .mi  { color: #099; }                    /* Number.Integer */
+.highlight .n   { color: #000; }                    /* Name */
+.highlight .nb  { color: #099; }                    /* Name.Builtin */
+.highlight .nf  { color: #00F; font-weight:bold }   /* Name.Function */
+.highlight .nl  { color: #950; }                    /* Name.Label */
+.highlight .nv  { color: #990; }                    /* Name.Variable */
+.highlight .o   { color: #000; font-weight: bold }  /* Operator */
+.highlight .p   { color: #000; }                    /* Punctuation */
+.highlight .sc  { color: #C99; font-weight:bold }   /* String.Char */
+.highlight .s2  { color: #C99; font-weight:bold }   /* String.Double */

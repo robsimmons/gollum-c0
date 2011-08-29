@@ -445,7 +445,7 @@ a:hover, a:visited {
   
   
   
-/* @control syntax */
+/* @control syntax 
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } 
 .highlight .err { color: #a61717; background-color: #e3d2d2 } 
@@ -469,6 +469,7 @@ a:hover, a:visited {
 .highlight .gu { color: #aaaaaa } 
 .highlight .gt { color: #aa0000 } 
 
+*/
 
 /* @control minibutton */
 ul.actions {

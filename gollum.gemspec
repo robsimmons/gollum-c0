@@ -60,6 +60,7 @@ Gem::Specification.new do |s|
     lib/gollum/frontend/public/css/dialog.css
     lib/gollum/frontend/public/css/editor.css
     lib/gollum/frontend/public/css/gollum.css
+    lib/gollum/frontend/public/css/highlight-c0.css
     lib/gollum/frontend/public/css/ie7.css
     lib/gollum/frontend/public/css/template.css
     lib/gollum/frontend/public/images/icon-sprite.png
