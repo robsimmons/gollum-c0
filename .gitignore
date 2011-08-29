@@ -1,3 +1,5 @@
+*~
+gollum-*.gem
 coverage
 pkg
 .DS_Store
